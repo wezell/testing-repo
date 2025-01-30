@@ -762,4 +762,3 @@ public final class LicenseManager {
     }
 
 }
-
